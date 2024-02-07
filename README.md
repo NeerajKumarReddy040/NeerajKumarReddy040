@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar Reddy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajkumarreddy040&label=Profile%20views&color=0e75b6&style=flat" alt="neerajkumarreddy040" /> </p>
-<img align="right"  alt="coding" width="400" src="![image](https://github.com/NeerajKumarReddy040/NeerajKumarReddy040/assets/65441025/a54e2dbd-8fe9-4486-9f37-a764b6826e65)"
->
+<img align="right"  alt="coding" width="400" src="![image](https://github.com/NeerajKumarReddy040/NeerajKumarReddy040/assets/65441025/a54e2dbd-8fe9-4486-9f37-a764b6826e65)">
 
 
 - 🔭 I’m currently doing course on **AWS | Devops**
