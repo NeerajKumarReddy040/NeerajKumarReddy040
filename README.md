@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **AWS & Devops**
 
-- 🌱 I’m currently learning **JDBC**
-
 - 👯 I’m looking to collaborate on **Java, Devops**
 
 - 🤝 I’m looking for help with **Devops Tools and Java**
