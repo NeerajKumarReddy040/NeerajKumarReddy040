@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/neerajk14352055" target="blank"><img src="https://img.shields.io/twitter/follow/neerajk14352055?logo=twitter&style=for-the-badge" alt="neerajk14352055" /></a> </p>
 
-- 🔭 I’m currently working on **AWS & Devops**
+- 🔭 I’m currently working on **springboot and microservices**
 
 - 👯 I’m looking to collaborate on **Java, Devops**
 
